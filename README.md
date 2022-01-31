@@ -12,4 +12,5 @@ spring.jpa.hibernate.ddl-auto=update
 server.port= <HTTP server port>
 
 Step 2:
+Also make sure to install Maven dependencies before running the server.
 Build it in the IDE of choice and run. 
